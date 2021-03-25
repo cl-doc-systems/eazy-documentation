@@ -1,5 +1,5 @@
-Pros & Cons of Coo
-==================
+Pros & Cons
+===========
 
 Pros
 ----
